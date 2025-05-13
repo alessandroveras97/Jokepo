@@ -91,7 +91,7 @@ cd Jokepo
 
 ## 🖼️ Imagem do Jogo
 
-![Screenshot do jogo](img/tela.png)
+![Screenshot do jogo](imagem/tela.png)
 
 ## 📝 Licença
 
