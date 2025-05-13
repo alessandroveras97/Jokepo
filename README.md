@@ -96,3 +96,14 @@ cd Jokepo
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja mais em [LICENSE](LICENSE).
+
+## 🤝 Como Contribuir
+
+Se você quiser contribuir com este projeto, siga os passos abaixo:
+
+1. Fork o repositório.
+2. Crie uma branch para suas alterações (`git checkout -b feature/nova-funcionalidade`).
+3. Faça suas alterações e commit (`git commit -am 'Adiciona nova funcionalidade'`).
+4. Envie para o repositório original (`git push origin feature/nova-funcionalidade`).
+5. Abra um pull request.
+
